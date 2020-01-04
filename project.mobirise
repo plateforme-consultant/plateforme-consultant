@@ -76,7 +76,7 @@
     "imageResize": false,
     "witsec-mailform": false,
     "pwa-switcher": true,
-    "htmltag": "undefined"
+    "htmltag": "<html>"
   },
   "pages": {
     "index.html": {
