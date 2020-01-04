@@ -73,7 +73,7 @@
       "themeColor": "#255085"
     },
     "favicon": false,
-    "imageResize": false,
+    "imageResize": true,
     "witsec-mailform": false,
     "pwa-switcher": true,
     "htmltag": "<html>"
